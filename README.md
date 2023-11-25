@@ -7,19 +7,19 @@
 
 Clone the Reporsitory 
 
-'''bash
+```bash
 https://github.com/Jerome-Ronson/Kidney_Disease_classification
-'''
+```
 
 ### STEP 01- Create a conda environment after opening the repository 
 
-'''bash 
-conda create -n kidney python-3.8 -y
-'''
+```bash
+conda create -n kidney python=3.8 -y
+```
 
-'''bash 
+```bash
 conda activate kidney 
-'''
+```
 
 ### STEP 02- install the requirements
 ```bash
