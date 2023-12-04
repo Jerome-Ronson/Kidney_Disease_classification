@@ -7,6 +7,3 @@ __pycache__/
 artifacts/*
 build
 venv
-dvc.lock
-.dvc
-.dvcignore
